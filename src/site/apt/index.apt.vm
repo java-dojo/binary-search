@@ -31,7 +31,7 @@ Further Challenges
   * Implement the method without using an additional method.
 
   * To implement a binary search in a generic way (using generics) use the kata
-    {{{{https://java-dojo.github.io/advanced-binary-search}Advanced Binary Search}}.
+    {{{https://java-dojo.github.io/advanced-binary-search}Advanced Binary Search}}.
 
 Development Requirements
 
