@@ -5,8 +5,8 @@ Task
 
 Specification
 
-  The method <<<search>>> searches over a given array and returns <<<true>>>, if
-  the value to search for is found.
+  The method <<<search>>> searches over a given array of <<<int>>>s and returns
+  <<<true>>>, if the value to search for is found.
 
   Implement a binary search. If needed you can add further (private) methods to
   the class <<<BinarySearch>>>.
