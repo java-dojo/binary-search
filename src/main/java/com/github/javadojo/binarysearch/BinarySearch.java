@@ -1,12 +1,12 @@
 package com.github.javadojo.binarysearch;
 
 /**
- *
+ * A class to perform a binary search on a sorted array of {@code int}s.
  */
 public class BinarySearch implements Search {
 
     /**
-     * Searches the value {@code toSearch} in the given (sorted) array
+     * Searches the value {@code toSearch} in the given (sorted) array of
      * {@code values}.
      *
      * @param values the sorted array to search through.
