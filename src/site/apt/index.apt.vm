@@ -11,6 +11,21 @@ Specification
   Implement a binary search. If needed you can add further (private) methods to
   the class <<<BinarySearch>>>.
 
+Algorithm
+
+  To perform a binary search you test the element in the middle of the (sorted)
+  array.
+
+  If this is the searched element then the search is terminated as the value is
+  found.
+
+  If the middle element in smaller than the value to search then the higher half
+  of the array is used (all element larger than the middle value) and the search
+  is performed again.
+
+  This is done until the searched element is either found or the remaining array
+  has only 1 element left.
+
 Support
 
   To support you with implementing the method there are unit tests in
