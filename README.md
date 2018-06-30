@@ -1,3 +1,4 @@
-# Binary Search
+# #movetogitlab
 
-The documentation is found on the [project page](https://java-dojo.github.io/binary-search/).
+This repository is moved to https://git.sw4j.net/java-dojo/binary-search with a mirror at
+https://gitlab.com/java-dojo/binary-search
